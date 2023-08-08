@@ -1,0 +1,140 @@
+.login-page {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.form {
+    background: #ffffff;
+    max-width: 460px;
+    padding: 45px;
+}
+
+.logo{
+    background-image: url(./../../public/images/Cream\ Minimalist\ Elegant\ Wedding\ Menu.png);
+    background-size: cover;
+    width: 370px;
+    height: 285px;
+    margin-bottom: 15px;
+}
+
+.form__input {
+    text-align: center;
+    background: #cccccc;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.form button {
+    text-transform: uppercase;
+    background: black;
+    width: 100%;
+    border: 0;
+    padding: 15px;
+    color: #ffffff;
+    font-size: 16px;
+    transition: all 0.3 ease;
+    cursor: pointer;
+}
+
+.form button:hover,
+.form button:active,
+.form button:focus,
+.form button:disabled {
+    background: rgba(0, 0, 0, 0.6);
+    color: #000000;
+}
+
+.form button:disabled{
+    background: #cccccc;
+}
+
+.form .message {
+    margin: 15px 0 0;
+    color: #a1a1a1;
+    font-size: 16px;
+}
+
+.form .message a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.form .message a:hover, .form .message a:active, .form .message a:focus {
+    text-decoration:underline;
+}
+
+.back__link{
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    padding-top: 25px;
+}
+
+.back__link:hover, .back__link:active, .back__link:focus{
+    opacity: 0.75;
+    color: #fff;
+}
+
+.offscreen {
+    position: absolute;
+    left: -9999px;
+}
+
+.errmsg {
+    background-color: lightpink;
+    color: firebrick;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.instructions {
+    font-size: 0.75rem;
+    border-radius: 0.5rem;
+    background: #000;
+    color: #fff;
+    padding: 0.25rem;
+    position: relative;
+    top: -8px;
+    bottom: -10px;
+}
+
+.valid{
+    text-align: center;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 16px;
+    background: #8caf83dd;
+}
+
+.p__success{
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.success {
+    text-decoration: none;
+    color: #000;
+    font-size: 28px;
+}
+
+.success:hover, .success:active, .success:focus {
+    text-decoration:none;
+    color: #000;
+    opacity: 0.6;
+}

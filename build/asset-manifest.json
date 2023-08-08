@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d0c36ac.css",
+    "main.js": "/static/js/main.4f80f055.js",
+    "static/media/rizky-subagja-1k7TnX5GAww-unsplash.jpg": "/static/media/rizky-subagja-1k7TnX5GAww-unsplash.36bf4bfbdeeb615e23e2.jpg",
+    "static/media/White-Dinner-Plate-PNG-Picture.png": "/static/media/White-Dinner-Plate-PNG-Picture.05c0dda36b61958c2391.png",
+    "static/media/Cream Minimalist Elegant Wedding Menu.png": "/static/media/Cream Minimalist Elegant Wedding Menu.81dd353c0c52c63f812f.png",
+    "static/media/meow-script-v5-latin-regular.woff": "/static/media/meow-script-v5-latin-regular.4f7702eb2947e8a0d995.woff",
+    "static/media/meow-script-v5-latin-regular.woff2": "/static/media/meow-script-v5-latin-regular.e2c146ff016d33aadc7f.woff2",
+    "static/media/ledger-v16-cyrillic-regular.woff": "/static/media/ledger-v16-cyrillic-regular.dfc5beaab4ebe2f2b709.woff",
+    "static/media/ledger-v16-cyrillic-regular.woff2": "/static/media/ledger-v16-cyrillic-regular.3d17ccdac69d446604ab.woff2",
+    "index.html": "/index.html",
+    "main.9d0c36ac.css.map": "/static/css/main.9d0c36ac.css.map",
+    "main.4f80f055.js.map": "/static/js/main.4f80f055.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0c36ac.css",
+    "static/js/main.4f80f055.js"
+  ]
+}
